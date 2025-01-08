@@ -18,8 +18,9 @@ nuxt3 [apps-onelink](https://github.com/JacobHsu/apps-onelink)
 [node-express-vercel](https://github.com/JacobHsu/node-express-vercel) 
 > frontend: [react-chatgpt](https://github.com/JacobHsu/react-chatgpt) 
 
+## Google AI 
 
-
+[face-landmark-detection](https://github.com/JacobHsu/face-landmark-detection)  
 
 # Docs
 
