@@ -5,6 +5,8 @@
 [react-chatgpt](https://github.com/JacobHsu/react-chatgpt)  
 > backend: [node-express-vercel](https://github.com/JacobHsu/node-express-vercel)
 
+[feat-canvas-confetti](https://github.com/JacobHsu/feat-canvas-confetti)  
+
 ## Vue 3
 
 nuxt3 [apps-onelink](https://github.com/JacobHsu/apps-onelink)  
@@ -21,6 +23,10 @@ nuxt3 [apps-onelink](https://github.com/JacobHsu/apps-onelink)
 ## Google AI 
 
 [face-landmark-detection](https://github.com/JacobHsu/face-landmark-detection)  
+
+## webpack
+
+[buddhist-style](https://github.com/JacobHsu/buddhist-style)  
 
 # Docs
 
