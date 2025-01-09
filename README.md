@@ -27,6 +27,10 @@
 
 [nuxt-coinlore](https://github.com/JacobHsu/nuxt-coinlore)  
 
+## NPM
+
+[npm-react-uikit](https://www.npmjs.com/package/npm-react-uikit)
+
 ## Google AI 
 
 [face-landmark-detection](https://github.com/JacobHsu/face-landmark-detection)  
