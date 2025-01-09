@@ -9,13 +9,15 @@
 
 ## Vue 3
 
-nuxt3 [apps-onelink](https://github.com/JacobHsu/apps-onelink)  
+`nuxt3` [apps-onelink](https://github.com/JacobHsu/apps-onelink)  
+`vite` [vue3-admin](https://github.com/JacobHsu/vue3-admin)  
+`tradingview` [vue-tradingview-widget](https://github.com/JacobHsu/vue-tradingview-widget)  
 
 ## Vue 2
 
 [annual2019movies](https://github.com/JacobHsu/annual2019movies)  
 
-## node
+## Node
 
 [node-express-vercel](https://github.com/JacobHsu/node-express-vercel) 
 > frontend: [react-chatgpt](https://github.com/JacobHsu/react-chatgpt) 
@@ -24,7 +26,11 @@ nuxt3 [apps-onelink](https://github.com/JacobHsu/apps-onelink)
 
 [face-landmark-detection](https://github.com/JacobHsu/face-landmark-detection)  
 
-## webpack
+## HTML
+
+`tradingview` [stock-klinechart](https://github.com/JacobHsu/stock-klinechart)  
+
+## Webpack
 
 [buddhist-style](https://github.com/JacobHsu/buddhist-style)  
 
