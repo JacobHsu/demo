@@ -6,6 +6,7 @@
 > backend: [node-express-vercel](https://github.com/JacobHsu/node-express-vercel)
 
 [feat-canvas-confetti](https://github.com/JacobHsu/feat-canvas-confetti)  
+[react-call-app](https://github.com/JacobHsu/react-call-app)  
 
 ## Vue 3
 
@@ -20,7 +21,11 @@
 ## Node
 
 [node-express-vercel](https://github.com/JacobHsu/node-express-vercel) 
-> frontend: [react-chatgpt](https://github.com/JacobHsu/react-chatgpt) 
+> frontend: [react-chatgpt](https://github.com/JacobHsu/react-chatgpt)
+
+## Nuxt 3
+
+[nuxt-coinlore](https://github.com/JacobHsu/nuxt-coinlore)  
 
 ## Google AI 
 
