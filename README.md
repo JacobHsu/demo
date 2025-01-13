@@ -7,6 +7,7 @@
 
 [feat-canvas-confetti](https://github.com/JacobHsu/feat-canvas-confetti)  
 [react-call-app](https://github.com/JacobHsu/react-call-app)  
+[react-fbx](https://github.com/JacobHsu/react-fbx)  `.fbx`  
 
 ## Vue 3
 
@@ -26,6 +27,10 @@
 ## Nuxt 3
 
 [nuxt-coinlore](https://github.com/JacobHsu/nuxt-coinlore)  
+
+## Next
+
+[next-v0](https://github.com/JacobHsu/next-v0) `v0.dev`
 
 ## NPM
 
