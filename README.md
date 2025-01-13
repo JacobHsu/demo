@@ -43,6 +43,7 @@
 ## HTML
 
 `tradingview` [stock-klinechart](https://github.com/JacobHsu/stock-klinechart)  
+[html5-pacman](https://github.com/JacobHsu/html5-pacman)  
 
 ## Webpack
 
