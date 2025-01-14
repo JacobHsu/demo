@@ -30,7 +30,8 @@
 
 ## Next
 
-[next-v0](https://github.com/JacobHsu/next-v0) `v0.dev`
+[next-v0](https://github.com/JacobHsu/next-v0) `v0.dev`  
+[next-apps](https://github.com/JacobHsu/next-apps)  `Clerk Components`
 
 ## NPM
 
