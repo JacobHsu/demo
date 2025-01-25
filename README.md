@@ -24,6 +24,8 @@
 [node-express-vercel](https://github.com/JacobHsu/node-express-vercel) 
 > frontend: [react-chatgpt](https://github.com/JacobHsu/react-chatgpt)
 
+[node-swagger-api](https://github.com/JacobHsu/node-swagger-api)
+
 ## Nuxt 3
 
 [nuxt-coinlore](https://github.com/JacobHsu/nuxt-coinlore)  
