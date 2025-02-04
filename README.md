@@ -18,6 +18,7 @@
 ## Vue 2
 
 [annual2019movies](https://github.com/JacobHsu/annual2019movies)  
+[COVID-19](https://github.com/JacobHsu/COVID-19)  
 
 ## Node
 
@@ -47,6 +48,7 @@
 
 `tradingview` [stock-klinechart](https://github.com/JacobHsu/stock-klinechart)  
 [html5-pacman](https://github.com/JacobHsu/html5-pacman)  
+[ECharts.js](https://github.com/JacobHsu/ECharts.js)  
 
 ## Webpack
 
