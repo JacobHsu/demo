@@ -9,6 +9,8 @@
 [feat-canvas-confetti](https://github.com/JacobHsu/feat-canvas-confetti)  
 [react-call-app](https://github.com/JacobHsu/react-call-app)  
 [react-fbx](https://github.com/JacobHsu/react-fbx)  `.fbx`  
+[react-paypal](https://github.com/JacobHsu/react-paypal) `paypal`  
+
 
 ## Vue 3
 
