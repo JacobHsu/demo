@@ -32,6 +32,7 @@
 
 ## Nuxt 3
 
+[nuxt-trello](https://github.com/JacobHsu/nuxt-trello)  
 [nuxt-coinlore](https://github.com/JacobHsu/nuxt-coinlore)  
 
 ## Next
