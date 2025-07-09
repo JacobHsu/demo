@@ -51,12 +51,7 @@
 ## Google AI 
 
 [face-landmark-detection](https://github.com/JacobHsu/face-landmark-detection)  
-
-## HTML
-
-`tradingview` [stock-klinechart](https://github.com/JacobHsu/stock-klinechart)  
-[html5-pacman](https://github.com/JacobHsu/html5-pacman)  
-[ECharts.js](https://github.com/JacobHsu/ECharts.js)  
+ 
 
 ## Webpack
 
