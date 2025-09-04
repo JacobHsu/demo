@@ -44,9 +44,6 @@
 
 [npm-react-uikit](https://www.npmjs.com/package/npm-react-uikit)
 
-## Chrome Web Store
-
-[twstock_chrome_extensions](https://github.com/JacobHsu/twstock_chrome_extensions)
 
 ## Google AI 
 
