@@ -17,6 +17,8 @@
 `nuxt3` [apps-onelink](https://github.com/JacobHsu/apps-onelink)  
 `vite` [vue3-admin](https://github.com/JacobHsu/vue3-admin)  
 `tradingview` [vue-tradingview-widget](https://github.com/JacobHsu/vue-tradingview-widget)  
+[vue-cropper-next](https://github.com/JacobHsu/vue-cropper-next)  `cropper-next-vue`  
+[vue3-virtual-scroller](https://github.com/JacobHsu/vue3-virtual-scroller) `vue-virtual-scroller`  
 
 ## Vue 2
 
