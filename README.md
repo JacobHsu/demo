@@ -42,6 +42,13 @@
 [next-v0](https://github.com/JacobHsu/next-v0) `v0.dev`  
 [next-apps](https://github.com/JacobHsu/next-apps)  `Clerk Components`
 
+
+## Python
+
+[py-hedge-fund](https://github.com/JacobHsu/py-hedge-fund)  AI Hedge Fund 
+[py-kronos-financial](https://github.com/JacobHsu/py-kronos-financial) Kronos  
+
+
 ## NPM
 
 [npm-react-uikit](https://www.npmjs.com/package/npm-react-uikit)
