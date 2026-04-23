@@ -45,8 +45,9 @@
 
 ## Python
 
-[py-hedge-fund](https://github.com/JacobHsu/py-hedge-fund)  AI Hedge Fund 
+[py-hedge-fund](https://github.com/JacobHsu/py-hedge-fund)  AI Hedge Fund  
 [py-kronos-financial](https://github.com/JacobHsu/py-kronos-financial) Kronos  
+[trading-agents-llm](https://github.com/JacobHsu/trading-agents-llm) TradingAgents  
 
 
 ## NPM
