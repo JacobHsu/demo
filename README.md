@@ -45,6 +45,7 @@
 
 ## Python
 
+[daily-stock-analysis](https://github.com/JacobHsu/daily-stock-analysis) daily_stock_analysis  
 [py-hedge-fund](https://github.com/JacobHsu/py-hedge-fund)  AI Hedge Fund  
 [py-kronos-financial](https://github.com/JacobHsu/py-kronos-financial) Kronos  
 [trading-agents-llm](https://github.com/JacobHsu/trading-agents-llm) TradingAgents  
